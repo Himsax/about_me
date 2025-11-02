@@ -8,7 +8,10 @@ Hi there! I'm **Himanshu Saxena**, a passionate **Data Engineer** from **GL Baja
 - 🧠 Always eager to learn, explore new technologies, and solve complex data challenges  
 
 ## 🌐 Socials:
-[![LinkedIn](https://www.linkedin.com/in/himanshu-saxena-b5ba5a353/)  
+[![LinkedIn](## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Himanshu%20Saxena-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/himanshu-saxena-b5ba5a353/)
+)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himsaxena.official@gmail.com)
 
 # 💻 Tech Stack:
