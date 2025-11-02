@@ -12,7 +12,7 @@ Hi there! I'm **Himanshu Saxena**, a passionate **Data Engineer** from **GL Baja
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Himanshu%20Saxena-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/himanshu-saxena-b5ba5a353/)
 )  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himsaxena.official@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himsax1999@gmail.com)
 
 # 💻 Tech Stack:
 ### 🧠 Data Engineering & Databases
